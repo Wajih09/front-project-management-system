@@ -3,6 +3,8 @@ The platform allows users to manage projects and issues (create, update, delete,
 The platform includes a real-time chatbox for seamless team communication. 
 It also offers three subscription plans—Free, Monthly, and Yearly—each unlocking different features.
 
+**Technos : React / Redux / Tailwind CSS**
+
 
 ![image_original](https://github.com/user-attachments/assets/d8c44b48-e0e3-479e-8a21-da4e8f6ebdfc)
 
